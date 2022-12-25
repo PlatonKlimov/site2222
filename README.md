@@ -12,7 +12,7 @@
         </tr>
     </table>
     <header style="background: #00ff00"> <img src="C:\Users\plato\Downloads\Group 1.png"/><a href="#html" style="color:black; font-size:20px;">Я...</a>Я Платон<p id="html">Text html</p></header>
-    <main><i>Я начинающий программист. Я очень стараюсью</i></main>
+    <main><i>Я начинающий программист. Я очень стараюсь</i></main>
     <footer style="background: #ff00ff">Пока до новых встреч! Мои контактные данные: мой номер +79775195160, моя почта platonreddragon@gmail.com</footer>
     </body>
 </html>
