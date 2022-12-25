@@ -1,6 +1,8 @@
 <html>
-    <body style="font-family: sans-serif">
+    <head>
     <title>Название окна</title>
+    </head>
+    <body style="font-family: sans-serif">
     <h1 style="font-size:50px; text-align: center; color: red">Привет</h1>
     <h2 style="font-size:40px">Всем</h2>
     <p style="font-size:20px"><b>Учите HTML и CSS!!!!!</b></p>
